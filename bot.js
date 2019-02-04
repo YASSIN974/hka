@@ -446,4 +446,4 @@ message.channel.sendMessage('@everyone the server was haked  discord.gg/MB49QPn'
 
 
 
-mar.login("token")  
+client.login(process.env.BOT_TOKEN);
